@@ -11,7 +11,7 @@
 <body class="body index clearfix">
   <header class="_container clearfix">
     <div class="element element-1">
-    <img class="logo logo-1" src="images/logoecc.png">
+    <img class="logo logo-1" src="http://kodekloud.s3.amazonaws.com/sites/554273926e6f644145000000/113ac792b12dc4294a837af09c8ee82e/logoecc.png">
     <p class="title title-1">Welcome to Edmonton City Centre’s #31DaysOfHappy</p>
     </div>
   </header>
