@@ -1,13 +1,3 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="initial-scale=1.0">
-  <title>index</title>
-  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,800,inherit,400,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="/application.css">
-
-</head>
 <body class="body index clearfix">
   <header class="_container clearfix">
     <div class="element element-1">
